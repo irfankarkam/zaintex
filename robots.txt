@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irfankarkam.github.io/zaintex/sitemap.xml
